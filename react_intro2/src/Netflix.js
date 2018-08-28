@@ -24,3 +24,5 @@ class App extends Component {
 
 
 export default Netflix;
+
+// It looks like you're not closing the angle brackets on DisplayMovies and not passing the variable Netflix to DisplayMovies.
